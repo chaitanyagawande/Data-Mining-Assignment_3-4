@@ -16,9 +16,5 @@ Welcome to the repository containing a variety of data science assignments. This
 4. **Clustering** - [Bank Customer Segmentation 🏦](https://www.kaggle.com/datasets/shivamb/bank-customer-segmentation)
 5. **Association Rule** - [Groceries dataset 🛒](https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset)
 6. **Anomaly Detection** - [Credit Card Transaction 💳](https://www.kaggle.com/datasets/ybifoundation/credit-card-transaction)
-7. **With Exogenous Factors** - Hotel Prices Forecasting
-2. **Without Exogenous Factors** - Hotel Prices Forecasting
-
----
-
-Feedback and contributions are always welcome! 👋
+7. **Time Series Forecasting With Exogenous Factors** - Hotel Prices Forecasting
+8. **Time Series Forecasting  Without Exogenous Factors** - Hotel Prices Forecasting
