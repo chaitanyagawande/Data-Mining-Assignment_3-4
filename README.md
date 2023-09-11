@@ -2,17 +2,13 @@
 
 Welcome to the repository containing a variety of data science assignments. This repository aims to showcase different methodologies and approaches using the PyCaret library.
 
-## 📌 Table of Contents
-1. [📱 Smartphone Models Dataset Analysis](#smartphone-models-dataset-analysis)
-2. [🤖 Machine Learning Assignments](#machine-learning-assignments)
-3. [⏳ Time Series Assignments](#time-series-assignments)
-4. [❗ Issues Faced with Kaggle Datasets for Time Series](#issues-faced-with-kaggle-datasets-for-time-series)
-5. [🎥 View the Recordings](#view-the-recordings)
+## Assignment 1
 
 ### 📱 Smartphone Models Dataset Analysis
 - **Dataset**: [Smartphone Models](https://www.kaggle.com/datasets/abdurrahman22224/smartphone-new-data)
 - **Recording**: [Watch here](https://drive.google.com/file/d/1bjXlc1SSiTkOvHI7x7ElgCdRWiTTbQi5/view?usp=sharing)
 
+## Assignment 2
 ### 🤖 Machine Learning Assignments
 1. **Binary Classification** - [Email Spam Classification 📧](https://www.kaggle.com/datasets/balaka18/email-spam-classification-dataset-csv)
 2. **Multiclass Classification** - [Instagram Play Store Reviews 📸](https://www.kaggle.com/datasets/saloni1712/instagram-play-store-reviews)
