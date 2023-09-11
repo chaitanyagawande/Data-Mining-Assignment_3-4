@@ -16,3 +16,8 @@ Welcome to the repository containing a variety of data science assignments. This
 6. **Anomaly Detection** - [Credit Card Transaction 💳](https://www.kaggle.com/datasets/ybifoundation/credit-card-transaction)
 7. **Time Series Forecasting With Exogenous Factors** - Hotel Prices Forecasting
 8. **Time Series Forecasting  Without Exogenous Factors** - Hotel Prices Forecasting
+
+### Gradio
+Recording of Gradio demo is as follow:
+1. **Binary Classification** - [Watch here](https://drive.google.com/file/d/1iPor1TVLZQCHuJ3v-NXntsaC10l9xQdP/view?usp=sharing)
+2. **Linear Regression** - [Watch here](https://drive.google.com/file/d/1tbgVAEBs3yPpBYtC_-xausI78hyFVQP1/view?usp=sharing)
