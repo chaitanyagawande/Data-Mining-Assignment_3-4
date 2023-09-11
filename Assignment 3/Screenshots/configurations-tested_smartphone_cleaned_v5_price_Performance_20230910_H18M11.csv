@@ -1,0 +1,7 @@
+﻿ML Algorithm,Preprocessing,Feature Selection Name,Feature Selection Hyperparameters,Predictive Algorithm Name,Predictive Algorithm Hyperparameters,Performance,Time (ms)
+1,"Mean Imputation, Mode Imputation, Constant Removal, Standardization","LASSO","penalty = 1.0","Ridge Linear Regression","lambda = 1.0","R2 = 0.710",973
+2,"Mean Imputation, Mode Imputation, Constant Removal, Standardization","LASSO","penalty = 1.0","Regression Random Forest with Mean Squared Error splitting criterion","ntrees = 100, minimum leaf size = 5","R2 = 0.869",994
+3,"IdentityFactory","FullSelector","","Trivial model","","R2 = -0.000",0
+4,"Mean Imputation, Mode Imputation, Constant Removal, Standardization","LASSO","penalty = 1.0","Regression Random Forest with Mean Squared Error splitting criterion","ntrees = 100, minimum leaf size = 5","R2 = 0.868",996
+5,"Mean Imputation, Mode Imputation, Constant Removal, Standardization","Test-Budgeted Statistically Equivalent Signature (SES)","maxK = 2, alpha = 0.05, budget = 3 * nvars","Regression Random Forest with Mean Squared Error splitting criterion","ntrees = 100, minimum leaf size = 5","R2 = 0.732",219
+6,"Mean Imputation, Mode Imputation, Constant Removal, Standardization","LASSO","penalty = 1.0","Regression Random Forest with Mean Squared Error splitting criterion","ntrees = 100, minimum leaf size = 5","R2 = 0.854",1128

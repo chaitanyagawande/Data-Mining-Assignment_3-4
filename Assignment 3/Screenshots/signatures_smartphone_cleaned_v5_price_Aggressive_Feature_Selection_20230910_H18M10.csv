@@ -1,0 +1,6 @@
+﻿Feature 0,brand_name,processor_brand,resolution,os
+Feature 1,processor_speed
+Feature 2,ram_capacity
+Feature 3,internal_memory
+Feature 4,extended_memory_available
+Feature 5,has_nfc
